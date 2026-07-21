@@ -1,0 +1,6 @@
+{
+  "name": "AuXPay Mobile",
+  "description": "AuXPay premium mobile wallet featuring a beautiful slate-indigo Dark Mode, an Elegant Light Gold mode, asset management, metal cards, statistics, and live asset swaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
